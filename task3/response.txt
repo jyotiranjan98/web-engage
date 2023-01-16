@@ -1,0 +1,46 @@
+How will you inform the 2 separate account managers of both customers about your approach? 
+Write an internal message informing Manoj (Account manager for Task 1) & Ravi (Account Manager for Task 2) about your respective approach. 
+
+Ans:- Dear Manoj,
+
+I hope this message finds you well. I am writing to inform you that I have recently been faced with a medical emergency and will be unable to continue working on Task 1 for the next 3 days. 
+I apologize for any inconvenience this may cause and want to assure you that I am working to find a solution as soon as possible.
+
+
+Please feel free to reach out to me if you have any questions or concerns. I will do my best to respond as soon as possible.
+
+Best,
+Jyotiranjan Das
+
+
+
+Dear Ravi,
+
+I hope this message finds you well. I am writing to inform you that i have recently been faced with a medical emergency but i will complete this task on a high priority due to go-live date in next two days.
+I am working on the functionalities are there in this task. I will finish this as soon as possible and deliver it on time.
+
+Please feel free to reach out to me if you have any questions or concerns. I will do my best to respond as soon as possible.
+
+Best,
+Jyotiranjan Das
+
+
+Dear Customer ,
+
+I hope this email finds you well. I am writing to inform you that we have recently encountered a delay in the completion of Task . 
+This delay is due to a medical emergency that I have been faced with, and I apologize for any inconvenience this may cause.
+Due to this unforeseen circumstance, we anticipate that the completion of both tasks will be delayed by an additional 3 days.
+Please know that we are working diligently to minimize this delay and ensure that the tasks are completed to the highest standard.
+We understand that this delay may cause some inconvenience for your business and we apologize for any disruption this may cause. 
+We assure you that we are making every effort to complete the tasks as soon as possible.
+
+Please let us know if you have any questions or concerns. We will be happy to provide you with an update on the status of the tasks.
+
+Thank you for your understanding and patience.
+
+Best regards,
+Jyotiranjan Das
+
+
+
+
